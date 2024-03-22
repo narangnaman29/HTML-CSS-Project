@@ -1,2 +1,2 @@
 # HTML-CSS-Project
-Repository Of My HTML and CSS Projects
+This is a repository of My HTML and CSS Projects
